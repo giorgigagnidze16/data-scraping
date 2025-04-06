@@ -14,13 +14,15 @@ information using BeautifulSoup.
 - Collects details such as title, author, book URL, and cover image
 - Saves the data in **JSON** and **CSV** formats
 - Provides easy methods to:
-    - Paginate through the book pages & get up to x books 
+    - Paginate through the book pages & get up to x books
     - Filter books by keywords in the title
     - Get all unique authors
     - Get authors who have written >= x books
+    - Data visualization with matplotlib
     - More to be added...
 - Handles errors gracefully (e.g. missing data, connection issues)
 - Follows proper object-oriented design (OOP principles)
+- Tests main functionality with unit tests
 
 ---
 

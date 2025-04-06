@@ -54,12 +54,13 @@ This data is saved in both **CSV** and **JSON** formats to support various downs
 
 ### Post-Processing & Analysis
 
-Two types of data transformations were implemented:
+Analytical data implemented:
 
 - **Unique author listing**: Extracts and lists all unique authors from the dataset.
-- **Paginative Scraping**: Paginate through the pages, to scrap as many books as possible.
+- **Paginate Scraping**: Paginate through the pages, to scrap as many books as possible.
 - **Keyword filtering**: Filters books whose titles contain a given keyword (e.g., "war").
 - **Author Statistics**: Find authors who have written >= x books in total from the scraped list.
+- **Statistics Visualization**: Visualize the above statistics data using matplotlib.
 
 Example usage:
 

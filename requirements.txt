@@ -1,2 +1,3 @@
 beautifulsoup4==4.13.3 # might need to adjust
 requests==2.32.3 #might wanna adjust
+matplotlib>=3.10.1
