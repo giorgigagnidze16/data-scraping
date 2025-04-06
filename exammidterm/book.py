@@ -1,5 +1,6 @@
 import csv
 import json
+from collections import Counter
 
 
 class Book:
@@ -98,3 +99,7 @@ class BookCollection:
 
     def filter_by_keyword(self, keyword):
         return [book for book in self._books if keyword.lower() in book.title.lower()]
+
+    def get_authors_with_more_than_or_equal_to_x_books(self, x=3):
+        author_counts = Counter(book.author for book in self._books if book.author != 'No author found')
+        return {author: count for author, count in author_counts.items() if count >= x}

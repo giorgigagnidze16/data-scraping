@@ -48,9 +48,8 @@ class OpenLibraryScraper:
             print(f"Request failed for {full_url}: {e}")
             return None
 
-    def parse_book_info_from_people(self, people, min_books_to_scrape=50):
+    def parse_book_info_from_people(self, people, min_books_to_scrape=50, max_pages=5):
         page_num = 1
-        max_pages = 5  # max iteration
 
         book_collection = BookCollection()
         while book_collection.size() < min_books_to_scrape and page_num <= max_pages:
@@ -100,7 +99,7 @@ class OpenLibraryScraper:
                     cover_img_url = cover_img_tag[
                         'src'] if cover_img_tag and 'src' in cover_img_tag.attrs else 'No cover image found'
 
-                    book = Book(title, author, link, cover_img_url)
+                    book = Book(title, author[2:], link, cover_img_url)
                     book_collection.add_book(book)
 
                     page_books += 1
