@@ -2,7 +2,6 @@ import csv
 import json
 from collections import Counter
 
-
 class Book:
     def __init__(self, title, author, link, cover_image_url):
         self._title = title
