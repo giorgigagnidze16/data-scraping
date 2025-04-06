@@ -1,0 +1,602 @@
+[
+  {
+    "title": "The G.I.'s: the Americans in Britain 1942-1945",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL4936846M/The_G.I.'s",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8238464-M.jpg"
+  },
+  {
+    "title": "The doodlebugs: the story of the flying-bombs",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL3849665M/The_doodlebugs",
+    "cover_image_url": "//covers.openlibrary.org/b/id/4333180-M.jpg"
+  },
+  {
+    "title": "The workhouse",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL5113961M/The_workhouse",
+    "cover_image_url": "//covers.openlibrary.org/b/id/4477023-M.jpg"
+  },
+  {
+    "title": "The real Dad's Army: the story of the Home Guard",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL28277448M/The_real_Dad's_Army",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10204033-M.jpg"
+  },
+  {
+    "title": "Writing for the BBC: a guide for professional and part-time freelance writers on possible markets for their work within the British Broadcasting Corporation",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL1574459M/Writing_for_the_BBC",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10195160-M.jpg"
+  },
+  {
+    "title": "Defending the island: from Caesar to the Armada",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL1634029M/Defending_the_island",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12786024-M.jpg"
+  },
+  {
+    "title": "Island Fortress",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL7794545M/Island_Fortress",
+    "cover_image_url": "//covers.openlibrary.org/b/id/450608-M.jpg"
+  },
+  {
+    "title": "The waterdrinkers: a history of temperance.",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL4024850M/The_waterdrinkers",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8129954-M.jpg"
+  },
+  {
+    "title": "When we won the war: the story of victory in Europe, 1945",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL4606321M/When_we_won_the_war",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8369231-M.jpg"
+  },
+  {
+    "title": "The Home front: an anthology of personal experience, 1938-1945",
+    "author": "byNorman Longmate",
+    "link": "https://openlibrary.org/books/OL3838780M/The_Home_front",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8490201-M.jpg"
+  },
+  {
+    "title": "Something rich and strange: the story of South Africa's treasures, famous and unknown, sunken and buried, and some personal experiences in the search for lost hoards",
+    "author": "byLawrence George Green",
+    "link": "https://openlibrary.org/books/OL35606515M/Something_rich_and_strange",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12313048-M.jpg"
+  },
+  {
+    "title": "These wonders to behold: experiences and discoveries of the author in search of the grain of truth in Africa's strangest tales; and views on certain deep mysteries of Africa, solved and unsolved or never to be solved.",
+    "author": "byLawrence George Green",
+    "link": "https://openlibrary.org/books/OL5808210M/These_wonders_to_behold",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7015008-M.jpg"
+  },
+  {
+    "title": "Bonny Pit Laddie",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL7353132M/Bonny_Pit_Laddie",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12665350-M.jpg"
+  },
+  {
+    "title": "Bill Thompson's pigeon",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL24775953M/Bill_Thompson's_pigeon",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6829895-M.jpg"
+  },
+  {
+    "title": "Jimmy Lane and his boat",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL14961998M/Jimmy_Lane_and_his_boat",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12313717-M.jpg"
+  },
+  {
+    "title": "Water Break Its Neck",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL10126788M/Water_Break_Its_Neck",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12646915-M.jpg"
+  },
+  {
+    "title": "Out of the mines: the story of a pit boy",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL24765310M/Out_of_the_mines",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6819157-M.jpg"
+  },
+  {
+    "title": "Francis Kilvert and his world",
+    "author": "byFrederick Grice",
+    "link": "https://openlibrary.org/books/OL3241546M/Francis_Kilvert_and_his_world",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9467848-M.jpg"
+  },
+  {
+    "title": "The Technique of the Love Affair",
+    "author": "byDoris Langley Moore",
+    "link": "https://openlibrary.org/books/OL8103460M/The_Technique_of_the_Love_Affair",
+    "cover_image_url": "//covers.openlibrary.org/b/id/538823-M.jpg"
+  },
+  {
+    "title": "The Late lord Byron. Posthumous dramas....",
+    "author": "byDoris Langley Moore",
+    "link": "https://openlibrary.org/books/OL24600759M/The_Late_lord_Byron._Posthumous_dramas....",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6936636-M.jpg"
+  },
+  {
+    "title": "The multimillionaires: six studies in wealth.",
+    "author": "byGoronwy Rees",
+    "link": "https://openlibrary.org/books/OL5822300M/The_multimillionaires",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11012162-M.jpg"
+  },
+  {
+    "title": "A chapter of accidents.",
+    "author": "byGoronwy Rees",
+    "link": "https://openlibrary.org/books/OL5340759M/A_chapter_of_accidents.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9912262-M.jpg"
+  },
+  {
+    "title": "Christ and time: the primitive Christian conception of time and history.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6068704M/Christ_and_time",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10983082-M.jpg"
+  },
+  {
+    "title": "Early Christian worship.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6149462M/Early_Christian_worship.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10714390-M.jpg"
+  },
+  {
+    "title": "The state in the New Testament.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6198589M/The_state_in_the_New_Testament.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6914654-M.jpg"
+  },
+  {
+    "title": "Peter; disciple, apostle, martyr: a historical and theological essay.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6251024M/Peter_disciple_apostle_martyr",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6643440-M.jpg"
+  },
+  {
+    "title": "The early church.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6215625M/The_early_church.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11034064-M.jpg"
+  },
+  {
+    "title": "Baptism in the New Testament",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL28407627M/Baptism_in_the_New_Testament",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10975647-M.jpg"
+  },
+  {
+    "title": "Early Christian worship",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL32095208M/Early_Christian_worship",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10750564-M.jpg"
+  },
+  {
+    "title": "The earliest Christian confessions.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL6143960M/The_earliest_Christian_confessions.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10680592-M.jpg"
+  },
+  {
+    "title": "Immortality of the soul: or, Resurrection of the dead? The witness of the New Testament.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL5628115M/Immortality_of_the_soul",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10981136-M.jpg"
+  },
+  {
+    "title": "Unity through diversity: its foundation, and a contribution to the discussion concerning the possibilities of its actualization",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL2391837M/Unity_through_diversity",
+    "cover_image_url": "//covers.openlibrary.org/b/id/4121940-M.jpg"
+  },
+  {
+    "title": "Vatican Council II; the new direction.: Essays",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL5604910M/Vatican_Council_II_the_new_direction.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7298875-M.jpg"
+  },
+  {
+    "title": "Message to Catholics and Protestants.",
+    "author": "byOscar Cullmann",
+    "link": "https://openlibrary.org/books/OL5776170M/Message_to_Catholics_and_Protestants.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10697965-M.jpg"
+  },
+  {
+    "title": "Essays on the Lord's Supper",
+    "author": "byOscar CullmannandFranz J. Leenhardt",
+    "link": "https://openlibrary.org/books/OL6247906M/Essays_on_the_Lord's_Supper",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10978582-M.jpg"
+  },
+  {
+    "title": "Constantinople: city of the world's desire, 1453-1924",
+    "author": "byPhilip Mansel",
+    "link": "https://openlibrary.org/books/OL982307M/Constantinople",
+    "cover_image_url": "//covers.openlibrary.org/b/id/173862-M.jpg"
+  },
+  {
+    "title": "The court of France, 1789-1830",
+    "author": "byPhilip Mansel",
+    "link": "https://openlibrary.org/books/OL2529587M/The_court_of_France_1789-1830",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12695401-M.jpg"
+  },
+  {
+    "title": "Louis XVIII",
+    "author": "byPhilip Mansel",
+    "link": "https://openlibrary.org/books/OL13570501M/Louis_XVIII",
+    "cover_image_url": "//covers.openlibrary.org/b/id/494447-M.jpg"
+  },
+  {
+    "title": "Pillars of monarchy: an outline of the political and social history of royal guards, 1400-1984",
+    "author": "byPhilip Mansel",
+    "link": "https://openlibrary.org/books/OL2928876M/Pillars_of_monarchy",
+    "cover_image_url": "//covers.openlibrary.org/b/id/4661852-M.jpg"
+  },
+  {
+    "title": "Thomas Cromwell: the untold story of Henry VIII's most faithful servant",
+    "author": "byTracy Borman",
+    "link": "https://openlibrary.org/books/OL32371513M/Thomas_Cromwell",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11026488-M.jpg"
+  },
+  {
+    "title": "The private lives of the Tudors: uncovering the secrets of Britain's greatest dynasty",
+    "author": "byTracy Borman",
+    "link": "https://openlibrary.org/books/OL39223855M/The_private_lives_of_the_Tudors",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12859293-M.jpg"
+  },
+  {
+    "title": "Henrietta Howard: king's mistress, queen's servant",
+    "author": "byTracy Borman",
+    "link": "https://openlibrary.org/books/OL32104673M/Henrietta_Howard",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10761877-M.jpg"
+  },
+  {
+    "title": "The Ring and the Crown: A History of Royal Weddings 1066\u20132011",
+    "author": "byAlison Weir,Kate Williams,Sarah Gristwood, andTracy Borman",
+    "link": "https://openlibrary.org/books/OL26708068M/The_Ring_and_the_Crown_A_History_of_Royal_Weddings_1066\u20132011",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8369537-M.jpg"
+  },
+  {
+    "title": "SAS Shadow Warriors of the 21st Century",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL12305421M/SAS_Shadow_Warriors_of_the_21st_Century",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12652950-M.jpg"
+  },
+  {
+    "title": "Fire magic: hijack to Mogadishu",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL20728068M/Fire_magic",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12312727-M.jpg"
+  },
+  {
+    "title": "The SAS self-defense handbook",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL24839346M/The_SAS_self-defense_handbook",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12892244-M.jpg"
+  },
+  {
+    "title": "SAS essential survival",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL3761053M/SAS_essential_survival",
+    "cover_image_url": "//covers.openlibrary.org/b/id/1408527-M.jpg"
+  },
+  {
+    "title": "Operation Royal Blood",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL9635238M/Operation_Royal_Blood",
+    "cover_image_url": "//covers.openlibrary.org/b/id/2108021-M.jpg"
+  },
+  {
+    "title": "Are You Tough Enough?",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL7981280M/Are_You_Tough_Enough",
+    "cover_image_url": "//covers.openlibrary.org/b/id/497325-M.jpg"
+  },
+  {
+    "title": "SAS rescue",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL106983M/SAS_rescue",
+    "cover_image_url": "//covers.openlibrary.org/b/id/2350915-M.jpg"
+  },
+  {
+    "title": "Heroes of the SAS",
+    "author": "byBarry Davies",
+    "link": "https://openlibrary.org/books/OL24971356M/Heroes_of_the_SAS",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6886669-M.jpg"
+  },
+  {
+    "title": "SAS: the Illustrated History",
+    "author": "byBarry Davies BEM",
+    "link": "https://openlibrary.org/books/OL9793437M/SAS",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6691611-M.jpg"
+  },
+  {
+    "title": "This was trucking: a pictorial history of the first quarter century of commercial motor vehicles",
+    "author": "byRobert F. Karolevitz",
+    "link": "https://openlibrary.org/books/OL5993976M/This_was_trucking",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6649625-M.jpg"
+  },
+  {
+    "title": "Doctors of the Old West: a pictorial history of medicine on the frontier",
+    "author": "byRobert F. Karolevitz",
+    "link": "https://openlibrary.org/books/OL5542335M/Doctors_of_the_Old_West",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6649132-M.jpg"
+  },
+  {
+    "title": "Where your heart is: the story of Harvey Dunn, artist",
+    "author": "byRobert F. Karolevitz",
+    "link": "https://openlibrary.org/books/OL4767346M/Where_your_heart_is",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10810112-M.jpg"
+  },
+  {
+    "title": "Challenge: the South Dakota story",
+    "author": "byRobert F. Karolevitz",
+    "link": "https://openlibrary.org/books/OL5193808M/Challenge",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8285306-M.jpg"
+  },
+  {
+    "title": "CURIOUS LIFE OF ROBERT HOOKE: THE MAN WHO MEASURED LONDON.",
+    "author": "byLisa JardineandLISA JARDINE",
+    "link": "https://openlibrary.org/books/OL22545839M/CURIOUS_LIFE_OF_ROBERT_HOOKE_THE_MAN_WHO_MEASURED_LONDON.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11469140-M.jpg"
+  },
+  {
+    "title": "On a grander scale: the outstanding life of Sir Christopher Wren",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL17077896M/On_a_grander_scale",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6687661-M.jpg"
+  },
+  {
+    "title": "The awful end of Prince William the Silent: the first assassination of a head of state with a handgun",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL3428166M/The_awful_end_of_Prince_William_the_Silent",
+    "cover_image_url": "//covers.openlibrary.org/b/id/37660-M.jpg"
+  },
+  {
+    "title": "Worldly goods: a new history of the Renaissance",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL971895M/Worldly_goods",
+    "cover_image_url": "//covers.openlibrary.org/b/id/240866-M.jpg"
+  },
+  {
+    "title": "Ingenious Pursuits",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL9621132M/Ingenious_Pursuits",
+    "cover_image_url": "//covers.openlibrary.org/b/id/213085-M.jpg"
+  },
+  {
+    "title": "Global interests: Renaissance art between East and West",
+    "author": "byLisa JardineandJerry Brotton",
+    "link": "https://openlibrary.org/books/OL6780036M/Global_interests",
+    "cover_image_url": "//covers.openlibrary.org/b/id/564439-M.jpg"
+  },
+  {
+    "title": "Temptation in the Archives",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL25728110M/Temptation_in_the_Archives",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7356153-M.jpg"
+  },
+  {
+    "title": "Another Point Of View",
+    "author": "byLisa Jardine",
+    "link": "https://openlibrary.org/books/OL26038779M/Another_Point_Of_View",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7610487-M.jpg"
+  },
+  {
+    "title": "Old men remember",
+    "author": "byWilliam Douglas Home",
+    "link": "https://openlibrary.org/books/OL1457365M/Old_men_remember",
+    "cover_image_url": "//covers.openlibrary.org/b/id/3951291-M.jpg"
+  },
+  {
+    "title": "Orde Wingate, a biography.",
+    "author": "byChristopher Sykes",
+    "link": "https://openlibrary.org/books/OL6273767M/Orde_Wingate_a_biography.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10653929-M.jpg"
+  },
+  {
+    "title": "Answer to question 33.",
+    "author": "byChristopher Sykes",
+    "link": "https://openlibrary.org/books/OL6037422M/Answer_to_question_33.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6903531-M.jpg"
+  },
+  {
+    "title": "Two studies in virtue.",
+    "author": "byChristopher Sykes",
+    "link": "https://openlibrary.org/books/OL6133971M/Two_studies_in_virtue.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10704214-M.jpg"
+  },
+  {
+    "title": "Tormented loyalty: the story of a German aristocrat who defied Hitler.",
+    "author": "byChristopher Sykes",
+    "link": "https://openlibrary.org/books/OL5683673M/Tormented_loyalty",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6570423-M.jpg"
+  },
+  {
+    "title": "Henry VIII and his court.",
+    "author": "byNeville Williams",
+    "link": "https://openlibrary.org/books/OL20028342M/Henry_VIII_and_his_court.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11643471-M.jpg"
+  },
+  {
+    "title": "Royal homes of the United Kingdom",
+    "author": "byNeville Williams",
+    "link": "https://openlibrary.org/books/OL17274779M/Royal_homes_of_the_United_Kingdom",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8177472-M.jpg"
+  },
+  {
+    "title": "Chronology of the expanding world, 1492 to 1762",
+    "author": "byNeville Williams",
+    "link": "https://openlibrary.org/books/OL22587507M/Chronology_of_the_expanding_world_1492_to_1762",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9661198-M.jpg"
+  },
+  {
+    "title": "Hedaya or guide: a commentary on the Mussulman laws",
+    "author": "byCharles Hamilton",
+    "link": "https://openlibrary.org/books/OL28380650M/Hedaya_or_guide",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11038162-M.jpg"
+  },
+  {
+    "title": "Sincerely yours: the famous & infamous as they wanted to be seen, in autographed photographs from the collection of M. Wesley Marans",
+    "author": "byCharles Hamilton",
+    "link": "https://openlibrary.org/books/OL3172640M/Sincerely_yours",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11714072-M.jpg"
+  },
+  {
+    "title": "Brazilian adventure",
+    "author": "byPeter Fleming",
+    "link": "https://openlibrary.org/books/OL3496971M/Brazilian_adventure",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9911584-M.jpg"
+  },
+  {
+    "title": "News from Tartary: A Journey from Peking to Kashmir",
+    "author": "byPeter Fleming",
+    "link": "https://openlibrary.org/books/OL3486308M/News_from_Tartary",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8782833-M.jpg"
+  },
+  {
+    "title": "The siege at Peking",
+    "author": "byPeter Fleming",
+    "link": "https://openlibrary.org/books/OL19604949M/The_siege_at_Peking",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11713567-M.jpg"
+  },
+  {
+    "title": "One's company: a journey to China in 1933",
+    "author": "byPeter Fleming",
+    "link": "https://openlibrary.org/books/OL22719148M/One's_company",
+    "cover_image_url": "//covers.openlibrary.org/b/id/12163773-M.jpg"
+  },
+  {
+    "title": "The fate of Admiral Kolchak.",
+    "author": "byPeter Fleming",
+    "link": "https://openlibrary.org/books/OL5885465M/The_fate_of_Admiral_Kolchak.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9302752-M.jpg"
+  },
+  {
+    "title": "The Physical sciences in the twentieth century",
+    "author": "byOwen Gingerich",
+    "link": "https://openlibrary.org/books/OL17727859M/The_Physical_sciences_in_the_twentieth_century",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9660699-M.jpg"
+  },
+  {
+    "title": "The Cultural drama: modern identities and social ferment.",
+    "author": "byOwen Gingerich",
+    "link": "https://openlibrary.org/books/OL5045918M/The_Cultural_drama",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10042152-M.jpg"
+  },
+  {
+    "title": "The great Copernicus chase and other adventures in astronomical history",
+    "author": "byOwen Gingerich",
+    "link": "https://openlibrary.org/books/OL1863989M/The_great_Copernicus_chase_and_other_adventures_in_astronomical_history",
+    "cover_image_url": "//covers.openlibrary.org/b/id/333517-M.jpg"
+  },
+  {
+    "title": "The Wittich connection: conflict and priority in late sixteenth-century cosmology",
+    "author": "byOwen Gingerich",
+    "link": "https://openlibrary.org/books/OL2069841M/The_Wittich_connection",
+    "cover_image_url": "//covers.openlibrary.org/b/id/1619205-M.jpg"
+  },
+  {
+    "title": "The Pasquier chronicles",
+    "author": "byGeorges Duhamel",
+    "link": "https://openlibrary.org/books/OL6375759M/The_Pasquier_chronicles",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10594130-M.jpg"
+  },
+  {
+    "title": "Papa Pasquier",
+    "author": "byGeorges Duhamel",
+    "link": "https://openlibrary.org/books/OL6310553M/Papa_Pasquier",
+    "cover_image_url": "//covers.openlibrary.org/b/id/11692175-M.jpg"
+  },
+  {
+    "title": "Flaubert and Madame Bovary: a double portrait.",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL6055368M/Flaubert_and_Madame_Bovary",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9437710-M.jpg"
+  },
+  {
+    "title": "Selected letters",
+    "author": "byGustave FlaubertandFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL6134130M/Selected_letters",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6764287-M.jpg"
+  },
+  {
+    "title": "Apollinaire, poet among the painters.",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL5884956M/Apollinaire_poet_among_the_painters.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7135041-M.jpg"
+  },
+  {
+    "title": "The Grand Mademoiselle.",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL6179082M/The_Grand_Mademoiselle.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9293665-M.jpg"
+  },
+  {
+    "title": "Maupassant, a lion in the path.",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL6050692M/Maupassant_a_lion_in_the_path.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/6537385-M.jpg"
+  },
+  {
+    "title": "Silence at Salerno: a comedy of intrigue",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL4549518M/Silence_at_Salerno",
+    "cover_image_url": "//covers.openlibrary.org/b/id/4416150-M.jpg"
+  },
+  {
+    "title": "Stories and true stories",
+    "author": "byFrancis Steegmuller",
+    "link": "https://openlibrary.org/books/OL26251458M/Stories_and_true_stories",
+    "cover_image_url": "//covers.openlibrary.org/b/id/7918668-M.jpg"
+  },
+  {
+    "title": "Miracle on Sinai: a satirical novel",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL6300417M/Miracle_on_Sinai",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9696948-M.jpg"
+  },
+  {
+    "title": "Argonaut and juggernaut.",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL7173850M/Argonaut_and_juggernaut.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/5654461-M.jpg"
+  },
+  {
+    "title": "Death of a god, and other stories.",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL6080200M/Death_of_a_god_and_other_stories.",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9941930-M.jpg"
+  },
+  {
+    "title": "Trio; dissertations on some aspects of national genius",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL4760918M/Trio_dissertations_on_some_aspects_of_national_genius",
+    "cover_image_url": "//covers.openlibrary.org/b/id/8278013-M.jpg"
+  },
+  {
+    "title": "Rat Week an Essay On the Abdication",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL10530607M/Rat_Week_an_Essay_On_the_Abdication",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10994200-M.jpg"
+  },
+  {
+    "title": "Noble essences: a book of characters",
+    "author": "byOsbert Sitwell",
+    "link": "https://openlibrary.org/books/OL26552774M/Noble_essences",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10052999-M.jpg"
+  },
+  {
+    "title": "The dresser",
+    "author": "byRonald Harwood",
+    "link": "https://openlibrary.org/books/OL4267253M/The_dresser",
+    "cover_image_url": "//covers.openlibrary.org/b/id/9789390-M.jpg"
+  },
+  {
+    "title": "Dear Alec: Guinness at 75",
+    "author": "byRonald Harwood",
+    "link": "https://openlibrary.org/books/OL22277277M/Dear_Alec",
+    "cover_image_url": "//covers.openlibrary.org/b/id/10983787-M.jpg"
+  }
+]
