@@ -29,12 +29,12 @@ information using BeautifulSoup.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/openlibrary-scraper.git
-cd openlibrary-scraper
+git clone https://github.com/giorgigagnidze16/data-scraping.git
+cd data-scraping
 
 
 python -m venv venv
-source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+source venv/bin/activate 
 
 pip install -r requirements.txt
 
