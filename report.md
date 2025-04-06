@@ -62,6 +62,8 @@ Analytical data implemented:
 - **Author Statistics**: Find authors who have written >= x books in total from the scraped list.
 - **Statistics Visualization**: Visualize the above statistics data using matplotlib.
 
+Project also contains unit testing for verification purposes.
+
 Example usage:
 
 ```bash
